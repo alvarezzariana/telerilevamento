@@ -1,3 +1,3 @@
 # telerilevamento
 
-This repo is thought for remote sensing lectures at UNIBO 
+This repo is thought for remote sensing lectures at UNIBO 🥒 🦛
